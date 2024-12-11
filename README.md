@@ -1,3 +1,4 @@
 ## Hi there 👋
 
-<img src="https://github.com/gurev96/gurev96/blob/main/f6c078b01f3b39dcaa4ecba31b083e8e.jpg"
+
+![f6c078b01f3b39dcaa4ecba31b083e8e](https://github.com/user-attachments/assets/95ea2e44-25a0-4b8e-b8d0-9f8435c68613)
